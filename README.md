@@ -1,3 +1,11 @@
+---
+Title: Solar Tracker
+Description: Controlling the position of Solar Panel using MATLAB App
+Author: WittyDimension
+Tags: electronics, control, servo
+Created:  March 25, 2021
+---
+
 # Solar Tracker
 
 ## Description
